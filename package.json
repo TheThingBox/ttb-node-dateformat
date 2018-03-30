@@ -1,0 +1,21 @@
+{
+  "name": "dateformat",
+  "version": "0.1.0",
+  "description": "This node return a date in the wanted format.",
+  "node-red": {
+    "nodes": {
+      "dateformat": "dateformat.js"
+    }
+  },
+  "main": "dateformat.js",
+  "dependencies": {
+    "moment-timezone": "0.5.14"
+  },
+  "keywords": [
+    "weather",
+    "meteo",
+    "AM/PM"
+  ],
+  "author": "digitalairways",
+  "license": "http://www.wtfpl.net"
+}
